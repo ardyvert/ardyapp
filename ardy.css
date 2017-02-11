@@ -1,0 +1,35 @@
+body{background: white;
+background-image: none;
+}
+ header{color: Green;font-size:50px;font-style: italic;
+ }
+ h1{color: red;font-style: italic;font-weight: bolder;
+ }
+ p{font-size:16px; color: black;font-family: Zapf-Chancery,cursive;font-style: italic;
+ }
+ a{color: purple;text-decoration: none;font-style: italic;
+ }
+ h2{color: black;font-style: italic;
+ }
+ h3{color: red;font-style: italic;
+ }
+ td{border:solid;border-color: black;border-width: 1px;background-color: white; width: 500px; height: auto;
+ }
+ strong{font-size: larger;
+ }
+ span{color: green;
+ }
+ #sthe{color: green;font-size: 12px;
+ }
+ #d5{width: 50%;
+ height: auto;
+ }
+ #h2{color:green;
+ font-size: 50px;
+ }
+ #bt{background:green;
+ font-size: 12px;
+ }
+ #pee{color:white;
+ }
+ 
